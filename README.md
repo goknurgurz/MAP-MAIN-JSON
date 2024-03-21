@@ -1,5 +1,3 @@
-# MAP-MAIN-JSON
-
 <h2> MAPS <h2>
 
 <h5> 
